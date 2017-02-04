@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peđa Marjanović</title>
-    <link>http://pedjamarjanovic.net/index.xml</link>
+    <link>http://pedjamarjanovic.com/index.xml</link>
     <description>Recent content on Peđa Marjanović</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://pedjamarjanovic.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pedjamarjanovic.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FILM / TV</title>
-      <link>http://pedjamarjanovic.net/film/</link>
+      <link>http://pedjamarjanovic.com/film/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pedjamarjanovic.net/film/</guid>
+      <guid>http://pedjamarjanovic.com/film/</guid>
       <description>&lt;p&gt;2017 | &lt;strong&gt;Working Class Heroes&lt;/strong&gt; | &lt;em&gt;policeman&lt;/em&gt; | feature film | Director: Miloš Pušić | &lt;em&gt;in post-production&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;2017 | &lt;strong&gt;Take the Blame&lt;/strong&gt; | &lt;em&gt;young boxer&lt;/em&gt; | short | Director: Dragan Nikolić&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>THEATRE</title>
-      <link>http://pedjamarjanovic.net/theatre/</link>
+      <link>http://pedjamarjanovic.com/theatre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pedjamarjanovic.net/theatre/</guid>
+      <guid>http://pedjamarjanovic.com/theatre/</guid>
       <description>&lt;p&gt;2016 | &lt;strong&gt;What Would You Give Your Life For&lt;/strong&gt; | Director: Haris Pašović | EastWest Theatre Sarajevo&lt;/p&gt;
 
 &lt;p&gt;2015 | &lt;strong&gt;The Heavenly Squad&lt;/strong&gt; | &lt;em&gt;Nazi Soldier&lt;/em&gt; | Director: Mia Knežević | The Serbian National Theatre,Novi Sad&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>VITA</title>
-      <link>http://pedjamarjanovic.net/vita/</link>
+      <link>http://pedjamarjanovic.com/vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pedjamarjanovic.net/vita/</guid>
+      <guid>http://pedjamarjanovic.com/vita/</guid>
       <description>&lt;!-- ### NESTOOOO --&gt;
 
 &lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;&lt;/p&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>VITA2</title>
-      <link>http://pedjamarjanovic.net/vita2/</link>
+      <link>http://pedjamarjanovic.com/vita2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pedjamarjanovic.net/vita2/</guid>
+      <guid>http://pedjamarjanovic.com/vita2/</guid>
       <description>&lt;!-- ### NESTOOOO --&gt;
 
 &lt;p&gt;Training:&lt;/p&gt;
