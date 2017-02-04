@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://pedjamarjanovic.net/film/</loc>
+  </url>
+  
+  <url>
+    <loc>http://pedjamarjanovic.net/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pedjamarjanovic.net/theatre/</loc>
+  </url>
+  
+  <url>
+    <loc>http://pedjamarjanovic.net/vita/</loc>
+  </url>
+  
+  <url>
+    <loc>http://pedjamarjanovic.net/vita2/</loc>
+  </url>
+  
+</urlset>
