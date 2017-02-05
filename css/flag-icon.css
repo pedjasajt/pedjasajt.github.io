@@ -3,6 +3,10 @@
   background-position: 50%;
   background-repeat: no-repeat;
 }
+.active-icon{
+  -webkit-filter: grayscale(70%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(70%);
+}
 .flag-icon {
   background-size: contain;
   background-position: 50%;
@@ -11,6 +15,7 @@
   display: inline-block;
   width: 1.33333333em;
   line-height: 1em;
+  margin-top: 18px;
 }
 .flag-icon:before {
   content: "\00a0";
